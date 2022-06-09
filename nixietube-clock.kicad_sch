@@ -104,6 +104,9 @@
     (path "/7153a618-9fce-4869-8fc6-797daddf7ece/884dac80-eef8-4209-98e2-4dbdea2deac1"
       (reference "U5") (unit 1) (value "ATmega8-16P") (footprint "Package_DIP:DIP-28_W7.62mm")
     )
+    (path "/110ed023-97fe-41db-a3d2-3fb36e4d4385/8c4585d9-aaf2-4ab6-807b-7faf9c8cc049"
+      (reference "U?") (unit 1) (value "LM5156") (footprint "")
+    )
     (path "/7153a618-9fce-4869-8fc6-797daddf7ece/cbb6255f-a88a-479f-a606-dcb62dc83419"
       (reference "Y1") (unit 1) (value "Crystal_Small") (footprint "Crystal:Crystal_AT310_D3.0mm_L10.0mm_Horizontal")
     )
